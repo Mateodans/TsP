@@ -1,0 +1,21 @@
+{
+    "dependencies": {
+        "http-server": "^14.1.1"
+    },
+    "name": "ts",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+        "start": "http-server -p 8436"
+    },
+    "author": "Mateo Dans",
+    "license": "ISC",
+    "description": "argentina programa",
+    "repository": {
+        "type": "git",
+        "url": "none"
+    },
+    "keywords": [
+        "typescript"
+    ]
+}
